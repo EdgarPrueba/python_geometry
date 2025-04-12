@@ -6,6 +6,8 @@
 Welcome to Geometry Module's documentation!
 ===========================================
 
+Este módulo proporciona herramientas simples y efectivas para calcular áreas y perímetros de figuras geométricas básicas como círculos, rectángulos y triángulos. Es ideal para prácticas educativas, proyectos escolares y fundamentos de geometría en Python.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -18,4 +20,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
